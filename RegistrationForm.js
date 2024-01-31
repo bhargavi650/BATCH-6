@@ -16,7 +16,6 @@ function RegistrationForm() {
       [name]: value
     });
   };
-
   const handleSubmit = (e) => {
     e.preventDefault();
     // You can handle form submission here
