@@ -21,6 +21,7 @@ function RegistrationForm() {
     // You can handle form submission here
     console.log(formData);
     alert('Registered successfully!');
+
   };
 
   return (
